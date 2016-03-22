@@ -22,8 +22,8 @@
     "event listener",
     "browser"
   ],
-  "author": "Brian Donovan",
-  "license": "MIT",
+  "author": "Kye Hohenberger",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/tkh44/simple-listen/issues"
   },
