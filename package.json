@@ -1,6 +1,6 @@
 {
   "name": "simple-listen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utility for adding event listeners with simple unsubscribing",
   "main": "dist/simple-listen.umd.js",
   "jsnext:main": "dist/simple-listen.es6.js",
