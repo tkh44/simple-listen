@@ -2,8 +2,8 @@
   "name": "simple-listen",
   "version": "1.0.0",
   "description": "Utility for adding event listeners with simple unsubscribing",
-  "main": "dist/simple-listen.umd.js",
-  "jsnext:main": "dist/simple-listen.es6.js",
+  "main": "dist/index.js",
+  "jsnext:main": "lib/index.js",
   "scripts": {
     "prebuild": "eslint lib test && rm -rf ./dist",
     "build:lib": "babel lib --out-dir dist",
