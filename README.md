@@ -21,7 +21,7 @@ $ npm install simple-listen
 ## Example
 
 ```js
-import listen from 'simple-listen'
+import listen from 'simple-listen';
 
 const el = document.getElementById('clickable');
 const callback = (e) => console.log(e.type);
