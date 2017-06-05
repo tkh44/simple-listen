@@ -8,9 +8,9 @@ Small utility for adding event listeners that returns the listener for easy unsu
 $ npm install simple-listen
 ```
 
-##API
+## API
 
-###`listen(el, events, cb, capture, context)`
+### `listen(el, events, cb, capture, context)`
 
 - `el` - the DOM element you are attaching events to
 - `events` - [string|array[string]] - the event types to attach
